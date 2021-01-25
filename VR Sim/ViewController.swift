@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  VR Sim
-//
+//THIS DEMO APPLICATION IS PROVIDED AS IS AND MAY NOT BE MAINTAINED.
 //  Created by Casey Pollock on 11/8/20.
 //
 
